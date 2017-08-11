@@ -1,6 +1,6 @@
 {
   "name": "heroku-pinger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple ping scheduler to prevent free Heroku apps from going to sleep when they shouldn't.",
   "main": "index.js",
   "scripts": {
