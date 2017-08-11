@@ -1,0 +1,16 @@
+{
+  "name": "heroku-pinger",
+  "version": "1.0.0",
+  "description": "A simple ping scheduler to avoid free Heroku apps from going to sleep when they shouldn't.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ping", "pinger", "scheduler", "heroku"],
+  "repository": " {
+    "type": "git",
+    "url": "https://github.com/ScottyFillups/heroku-pinger"
+  },
+  "author": "Philip Scott",
+  "license": "MIT"
+}
